@@ -1,0 +1,23 @@
+pysocks
+bs4
+smp
+segmentation-models-pytorch
+pyyaml
+tqdm
+numpy
+easydict
+scikit-image
+scikit-learn
+opencv-python
+tensorflow
+joblib
+matplotlib
+pandas
+albumentations==0.5.2
+hydra-core
+pytorch-lightning
+tabulate
+kornia==0.5.0
+webdataset
+packaging
+-e /path/to/lama
