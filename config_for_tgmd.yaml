@@ -1,0 +1,19 @@
+api_hash:
+api_id:
+chat_id:
+file_formats:
+  audio:
+  - all
+  document:
+  - all
+  video:
+  - all
+ids_to_retry: []
+last_read_message_id:
+media_types:
+- audio
+- photo
+- video
+- document
+- voice
+- video_note
