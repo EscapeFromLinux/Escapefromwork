@@ -26,4 +26,4 @@
   Creates watermark overlays with colored backgrounds on input images, producing both watermarked images and corresponding binary masks for training segmentation models.
 
 - **README.md:**  
-  Contains project overview, setup instructions, usage examples, and documentation for installation and operation of all scripts and tools in the repository.
+  Do not read him.
